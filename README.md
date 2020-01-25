@@ -73,7 +73,7 @@ Interaction design and information architecture.
 
 **Conceptual data model diagram**
 
-...img
+![alt text](ux/conceptual_data_model_diagram.png)
 
 **JSON data**
 
