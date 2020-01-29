@@ -23,7 +23,7 @@ Inventory management and product promotion.
 #### User Needs
 
 * Read technical specifications
-* View high reolution images
+* View high resolution images
 * Watch promotional videos
 * Download product brochures
 * Contact the supplier
