@@ -87,19 +87,9 @@ Interaction design and information architecture.
     "updated_at": "1574983277",
     "vendor": "Brand name",
     "id": 241311560,
-    "tags": ["tag", "tag2", "tag3"],
-    "variants": [
-      {
-        "option1": "Option 1",
-        "price": "7.00",
-        "sku": "sku1"
-      },
-      {
-        "option1": "Option 2",
-        "price": "9.00",
-        "sku": "sku2"
-      }
-    ],
+    "sku": "sku2",
+    "quantity": 7,
+    "price": 995,
     "images": [
       {
         "id": 850703190,
