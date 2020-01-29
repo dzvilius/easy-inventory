@@ -25,7 +25,7 @@ Inventory management and product promotion.
 * Read technical specifications
 * View high reolution images
 * Watch promotional videos
-* Download product brochure
+* Download product brochures
 * Contact the supplier
 * Print product details
 
@@ -33,7 +33,7 @@ Inventory management and product promotion.
 
 * Simple inventory management
 * Product promotion
-* Analytics
+* Data analytics
 
 ### #2 Scope
 
@@ -155,7 +155,7 @@ High fidelity design mockups.
 
 ## Tech
 
-...
+Diagrams made with https://cacoo.com/
 
 ## Testing
 
