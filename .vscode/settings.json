@@ -1,9 +1,0 @@
-{
-  "markdown.extension.toc.omittedFromToc": {
-    "README.md": [
-      "## Easy Inventory",
-      "#### Table of Contents"
-    ],
-  },
-  "markdown.extension.preview.autoShowPreviewToSide": true
-}
