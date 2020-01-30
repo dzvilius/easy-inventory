@@ -14,103 +14,99 @@ A complete list of user stories for this project.
 
 Check out project [Wireframes](ux/Wireframes) for visual reference.
 
-#### Customer
-
-Front-end user stories.
+#### Front-end list
 
 **#1** - Navigation
 
-- ***As a customer, I want to ..., so that, I can ....***
+- ***As a user, I want to ..., so that, I can ....***
 
-  - As a customer, I want to ..., so that, I can ....
+  - As a user, I want to ..., so that, I can ....
 
 **#2** - Product Category List
 
-- ***As a customer, I want to ..., so that, I can ....***
+- ***As a user, I want to ..., so that, I can ....***
 
-  - As a customer, I want to ..., so that, I can ....
+  - As a user, I want to ..., so that, I can ....
 
 **#3** - Product List
 
-- ***As a customer, I want to ..., so that, I can ....***
+- ***As a user, I want to ..., so that, I can ....***
 
-  - As a customer, I want to ..., so that, I can ....
+  - As a user, I want to ..., so that, I can ....
 
 **#4** - Images Gallery
 
-- ***As a customer, I want to ..., so that, I can ....***
+- ***As a user, I want to ..., so that, I can ....***
 
-  - As a customer, I want to ..., so that, I can ....
+  - As a user, I want to ..., so that, I can ....
 
 **#5** - Download Brochure
 
-- ***As a customer, I want to ..., so that, I can ....***
+- ***As a user, I want to ..., so that, I can ....***
 
-  - As a customer, I want to ..., so that, I can ....
+  - As a user, I want to ..., so that, I can ....
 
 **#6** - Contact Supplier
 
-- ***As a customer, I want to ..., so that, I can ....***
+- ***As a user, I want to ..., so that, I can ....***
 
-  - As a customer, I want to ..., so that, I can ....
+  - As a user, I want to ..., so that, I can ....
 
 **#7** - Print Details
 
-- ***As a customer, I want to ..., so that, I can ....***
+- ***As a user, I want to ..., so that, I can ....***
 
-  - As a customer, I want to ..., so that, I can ....
+  - As a user, I want to ..., so that, I can ....
 
-#### Supplier
-
-Back-end user stories.
+#### Back-end list
 
 **#1** Login
 
-- ***"As a supplier, I want to ..., so that, I can ...."***
+- ***"As a user, I want to ..., so that, I can ...."***
 
-  - As a supplier, I want to ..., so that, I can ....
+  - As a user, I want to ..., so that, I can ....
 
 **#2** Navigation
 
-- ***"As a supplier, I want to ..., so that, I can ...."***
+- ***"As a user, I want to ..., so that, I can ...."***
 
-  - As a supplier, I want to ..., so that, I can ....
+  - As a user, I want to ..., so that, I can ....
 
 **#3** Import Product
 
-- ***"As a supplier, I want to ..., so that, I can ...."***
+- ***"As a user, I want to ..., so that, I can ...."***
 
-  - As a supplier, I want to ..., so that, I can ....
+  - As a user, I want to ..., so that, I can ....
 
 **#4** Edit Product
 
-- ***"As a supplier, I want to ..., so that, I can ...."***
+- ***"As a user, I want to ..., so that, I can ...."***
 
-  - As a supplier, I want to ..., so that, I can ....
+  - As a user, I want to ..., so that, I can ....
 
 **#5** Upload Images
 
-- ***"As a supplier, I want to ..., so that, I can ...."***
+- ***"As a user, I want to ..., so that, I can ...."***
 
-  - As a supplier, I want to ..., so that, I can ....
+  - As a user, I want to ..., so that, I can ....
 
 **#6** YouTube Video
 
-- ***"As a supplier, I want to ..., so that, I can ...."***
+- ***"As a user, I want to ..., so that, I can ...."***
 
-  - As a supplier, I want to ..., so that, I can ....
+  - As a user, I want to ..., so that, I can ....
 
 **#7** Remove Product
 
-- ***"As a supplier, I want to ..., so that, I can ...."***
+- ***"As a user, I want to ..., so that, I can ...."***
 
-  - As a supplier, I want to ..., so that, I can ....
+  - As a user, I want to ..., so that, I can ....
 
 **#8** Export Products
 
-- ***"As a supplier, I want to ..., so that, I can ...."***
+- ***"As a user, I want to ..., so that, I can ...."***
 
-  - As a supplier, I want to ..., so that, I can ....
+  - As a user, I want to ..., so that, I can ....
 
 ### Tasks
 
