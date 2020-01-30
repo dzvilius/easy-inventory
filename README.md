@@ -1,26 +1,51 @@
-# Easy Inventory
+## Easy Inventory
 
 A web-based inventory management application. Built with React, Python, Flask and MongoDB.
 
 [Live Preview](https://#)
 
-...img
-
-## UX Design
+![Screenshot](https://lagallia.com/wp-content/uploads/2014/04/placeholder-840x630.png "Screenshot")
 
 Please read the [Project Brief](ux/Project_Brief.md) document to learn more about the client and project requirements.
 
-### #1 Strategy
+#### Table of Contents
+- [Strategy](#strategy)
+  - [Users](#users)
+  - [User Needs](#user-needs)
+  - [Business Goals](#business-goals)
+- [Scope](#scope)
+  - [Features](#features)
+  - [User Stories](#user-stories)
+- [Structure](#structure)
+- [Skeleton](#skeleton)
+  - [Wireframes](#wireframes)
+- [Surface](#surface)
+  - [Fonts](#fonts)
+  - [Brand Colours](#brand-colours)
+  - [Design Mockups](#design-mockups)
+- [Tech](#tech)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Credits](#credits)
+
+## Strategy
 
 Inventory management and product promotion.
 
-#### Users
+### Users
 
-- Store Owner / Supplier
+*Customer*
+
 - Professional DJs
 - Beginner DJs
 
-#### User Needs
+*Admin*
+
+- Supplier
+
+### User Needs
+
+*Customer*
 
 * Read technical specifications
 * View high resolution images
@@ -29,17 +54,29 @@ Inventory management and product promotion.
 * Contact the supplier
 * Print product details
 
-#### Business Goals
+*Admin*
+
+* Login to admin area
+* Import products
+* Add technical specifications
+* Upload high resolution images
+* Upload promotional videos
+* Edit product
+* Remove product
+* Export products
+
+### Business Goals
 
 * Simple inventory management
 * Product promotion
+* Data storage
 * Data analytics
 
-### #2 Scope
+## Scope
 
 Manage the inventory and display product details to customers.
 
-#### Features
+### Features
 
 * Product search
 * PDF brochure downloads
@@ -55,27 +92,27 @@ Manage the inventory and display product details to customers.
 * Statistics and charts
 * CSV import and export
 
-Features to be implemented in the future:
+*Features to be implemented in the future:*
 
 - Authentication
 
-#### User Stories
+### User Stories
 
 Please read the [User Stories](ux/User_Stories.md) document to learn more about the features.
 
-### #3 Structure
+## Structure
 
 Interaction design and information architecture.
 
-**The Mind-map**
+*The Mind-map*
 
-...img
+![The Mind-map](https://lagallia.com/wp-content/uploads/2014/04/placeholder-840x630.png "The Mind-map")
 
-**Conceptual data model diagram**
+*Conceptual data model diagram*
 
-![alt text](ux/conceptual_data_model_diagram.png)
+![alt text](ux/Diagrams/Conceptual_Data_Model_Diagram.png)
 
-**JSON data**
+*JSON data structure*
 
 ```json
 {
@@ -107,45 +144,47 @@ Interaction design and information architecture.
 
 ```
 
-### #4 Skeleton
+## Skeleton
 
-Wireframes with referances to Epic user stories.
+Low fidelity wireframes with [EPICs](ux/User_Stories.md) references.
 
 ### Wireframes
 
-**Home View**
+*Home View*
 
-...img
+![Alt](https://lagallia.com/wp-content/uploads/2014/04/placeholder-840x630.png "Alt")
 
-**List View**
+*List View*
 
-...img
+![Alt](https://lagallia.com/wp-content/uploads/2014/04/placeholder-840x630.png "Alt")
 
-### #5 Surface
+## Surface
 
 High fidelity design mockups.
 
-#### Fonts
+### Fonts
 
-...link
+...links
 
-#### Brand Colours
+### Brand Colours
 
-...img
+![Alt](https://lagallia.com/wp-content/uploads/2014/04/placeholder-840x630.png "Alt")
 
-#### Design Mockups
+### Design Mockups
 
-**Home View**
+*Home View*
 
-...img
+![Alt](https://lagallia.com/wp-content/uploads/2014/04/placeholder-840x630.png "Alt")
 
-**List View**
+*List View*
 
-...img
+![Alt](https://lagallia.com/wp-content/uploads/2014/04/placeholder-840x630.png "Alt")
 
 ## Tech
 
-Diagrams made with https://cacoo.com/
+- Kanban board https://trello.com/
+
+- Diagrams made with https://cacoo.com/
 
 ## Testing
 

@@ -1,12 +1,12 @@
-# Project Brief
+## Project Brief
 
 Build a web-based application for simple inventory management and interactive data presentation.
 
-**Product Owner**
+### Product Owner
 
 The client is a local DJ equipment supplier. They are looking for a simple solution to manage their product inventory and showcase details and technical specifications to potential buyers.
 
-**Requirements**
+### Requirements
 
 - CSV import and export
 - Ability to Create, Remove, Update and Delete records (CRUD)
@@ -18,7 +18,7 @@ The client is a local DJ equipment supplier. They are looking for a simple solut
 - Ability to upload documents
 - Admin login
 
-**Assets**
+### Assets
 
 - Product brochures
 - Brands list
@@ -28,6 +28,6 @@ The client is a local DJ equipment supplier. They are looking for a simple solut
 - Video links
 - Sample inventory CSV file
 
-**Notes**
+### Notes
 
 Data should be stored outside the application.
