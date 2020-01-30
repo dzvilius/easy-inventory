@@ -1,4 +1,4 @@
-## User Stories
+# User Stories
 
 A complete list of user stories for this project.
 

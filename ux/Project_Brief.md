@@ -1,4 +1,4 @@
-## Project Brief
+# Project Brief
 
 Build a web-based application for simple inventory management and interactive data presentation.
 

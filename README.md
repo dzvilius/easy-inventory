@@ -1,12 +1,12 @@
-## Easy Inventory
+# Easy Inventory
 
 A web-based inventory management application. Built with React, Python, Flask and MongoDB.
+
+Please read the [Project Brief](ux/Project_Brief.md) document to learn more about the client and project requirements.
 
 [Live Preview](https://#)
 
 ![Screenshot](https://lagallia.com/wp-content/uploads/2014/04/placeholder-840x630.png "Screenshot")
-
-Please read the [Project Brief](ux/Project_Brief.md) document to learn more about the client and project requirements.
 
 #### Table of Contents
 - [Strategy](#strategy)
@@ -32,7 +32,7 @@ Please read the [Project Brief](ux/Project_Brief.md) document to learn more abou
 
 Inventory management and product promotion.
 
-### Users
+#### Users
 
 *Customer*
 
@@ -43,7 +43,7 @@ Inventory management and product promotion.
 
 - Supplier
 
-### User Needs
+#### User Needs
 
 *Customer*
 
@@ -65,7 +65,7 @@ Inventory management and product promotion.
 * Remove product
 * Export products
 
-### Business Goals
+#### Business Goals
 
 * Simple inventory management
 * Product promotion
@@ -76,7 +76,7 @@ Inventory management and product promotion.
 
 Manage the inventory and display product details to customers.
 
-### Features
+#### Features
 
 * Product search
 * PDF brochure downloads
@@ -96,7 +96,7 @@ Manage the inventory and display product details to customers.
 
 - Authentication
 
-### User Stories
+#### User Stories
 
 Please read the [User Stories](ux/User_Stories.md) document to learn more about the features.
 
@@ -104,15 +104,19 @@ Please read the [User Stories](ux/User_Stories.md) document to learn more about 
 
 Interaction design and information architecture.
 
+#### Diagrams
+
 *The Mind-map*
 
 ![The Mind-map](https://lagallia.com/wp-content/uploads/2014/04/placeholder-840x630.png "The Mind-map")
 
-*Conceptual data model diagram*
+*Conceptual data model*
 
-![alt text](ux/Diagrams/Conceptual_Data_Model_Diagram.png)
+![alt text](ux/Diagrams/Conceptual_ER_Diagram.png)
 
-*JSON data structure*
+#### Database
+
+*JSON*
 
 ```json
 {
@@ -148,7 +152,7 @@ Interaction design and information architecture.
 
 Low fidelity wireframes with [EPICs](ux/User_Stories.md) references.
 
-### Wireframes
+#### Wireframes
 
 *Home View*
 
@@ -162,15 +166,15 @@ Low fidelity wireframes with [EPICs](ux/User_Stories.md) references.
 
 High fidelity design mockups.
 
-### Fonts
+#### Fonts
 
 ...links
 
-### Brand Colours
+#### Brand Colours
 
 ![Alt](https://lagallia.com/wp-content/uploads/2014/04/placeholder-840x630.png "Alt")
 
-### Design Mockups
+#### Design Mockups
 
 *Home View*
 
@@ -195,3 +199,5 @@ High fidelity design mockups.
 ...
 
 ## Credits
+
+...
