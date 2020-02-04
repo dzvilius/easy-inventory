@@ -16,97 +16,112 @@ Check out project [Wireframes](ux/Wireframes) for visual reference.
 
 #### Front-end list
 
-**#1** - Navigation
+**#1** - **"Navigation"**
 
-- ***As a user, I want to ..., so that, I can ....***
+- *As a Customer, I want to ..., so that, I can ... epic.*
 
-  - As a user, I want to ..., so that, I can ....
+  - [ ] As a Customer, I want to ..., so that, I can ... story.
+  - [ ] As a Customer, I want to ..., so that, I can ... story.
 
-**#2** - Product Category List
+**#2** - **"Product Category List"**
 
-- ***As a user, I want to ..., so that, I can ....***
+- *As a Customer, I want to ..., so that, I can ... epic.*
 
-  - As a user, I want to ..., so that, I can ....
+  - [ ] As a Customer, I want to ..., so that, I can ... story.
+  - [ ] As a Customer, I want to ..., so that, I can ... story.
 
-**#3** - Product List
+**#3** - **"Product List"**
 
-- ***As a user, I want to ..., so that, I can ....***
+- *As a Customer, I want to ..., so that, I can ... epic.*
 
-  - As a user, I want to ..., so that, I can ....
+  - [ ] As a Customer, I want to ..., so that, I can ... story.
+  - [ ] As a Customer, I want to ..., so that, I can ... story.
 
-**#4** - Images Gallery
+**#4** - **"Images Gallery"**
 
-- ***As a user, I want to ..., so that, I can ....***
+- *As a Customer, I want to ..., so that, I can ... epic.*
 
-  - As a user, I want to ..., so that, I can ....
+  - [ ] As a Customer, I want to ..., so that, I can ... story.
+  - [ ] As a Customer, I want to ..., so that, I can ... story.
 
-**#5** - Download Brochure
+**#5** - **"Download Brochure"**
 
-- ***As a user, I want to ..., so that, I can ....***
+- *As a Customer, I want to ..., so that, I can ... epic.*
 
-  - As a user, I want to ..., so that, I can ....
+  - [ ] As a Customer, I want to ..., so that, I can ... story.
+  - [ ] As a Customer, I want to ..., so that, I can ... story.
 
-**#6** - Contact Supplier
+**#6** - **"Contact Supplier"**
 
-- ***As a user, I want to ..., so that, I can ....***
+- *As a Customer, I want to ..., so that, I can ... epic.*
 
-  - As a user, I want to ..., so that, I can ....
+  - [ ] As a Customer, I want to ..., so that, I can ... story.
+  - [ ] As a Customer, I want to ..., so that, I can ... story.
 
-**#7** - Print Details
+**#7** - **"Print Details"**
 
-- ***As a user, I want to ..., so that, I can ....***
+- *As a Customer, I want to ..., so that, I can ... epic.*
 
-  - As a user, I want to ..., so that, I can ....
+  - [ ] As a Customer, I want to ..., so that, I can ... story.
+  - [ ] As a Customer, I want to ..., so that, I can ... story.
 
 #### Back-end list
 
-**#1** Login
+**#1** **"Login"**
 
-- ***"As a user, I want to ..., so that, I can ...."***
+- *As a Supplier, I want to ..., so that, I can ... epic.*
 
-  - As a user, I want to ..., so that, I can ....
+  - [ ] As a Supplier, I want to ..., so that, I can ... story.
+  - [ ] As a Supplier, I want to ..., so that, I can ... story.
 
-**#2** Navigation
+**#2** **"Navigation"**
 
-- ***"As a user, I want to ..., so that, I can ...."***
+- *As a Supplier, I want to ..., so that, I can ... epic.*
 
-  - As a user, I want to ..., so that, I can ....
+  - [ ] As a Supplier, I want to ..., so that, I can ... story.
+  - [ ] As a Supplier, I want to ..., so that, I can ... story.
 
-**#3** Import Product
+**#3** **"Import Product"**
 
-- ***"As a user, I want to ..., so that, I can ...."***
+- *As a Supplier, I want to ..., so that, I can ... epic.*
 
-  - As a user, I want to ..., so that, I can ....
+  - [ ] As a Supplier, I want to ..., so that, I can ... story.
+  - [ ] As a Supplier, I want to ..., so that, I can ... story.
 
-**#4** Edit Product
+**#4** **"Edit Product"**
 
-- ***"As a user, I want to ..., so that, I can ...."***
+- *As a Supplier, I want to ..., so that, I can ... epic.*
 
-  - As a user, I want to ..., so that, I can ....
+  - [ ] As a Supplier, I want to ..., so that, I can ... story.
+  - [ ] As a Supplier, I want to ..., so that, I can ... story.
 
-**#5** Upload Images
+**#5** **"Upload Images"**
 
-- ***"As a user, I want to ..., so that, I can ...."***
+- *As a Supplier, I want to ..., so that, I can ... epic.*
 
-  - As a user, I want to ..., so that, I can ....
+  - [ ] As a Supplier, I want to ..., so that, I can ... story.
+  - [ ] As a Supplier, I want to ..., so that, I can ... story.
 
-**#6** YouTube Video
+**#6** **"YouTube Video"**
 
-- ***"As a user, I want to ..., so that, I can ...."***
+- *As a Supplier, I want to ..., so that, I can ... epic.*
 
-  - As a user, I want to ..., so that, I can ....
+  - [ ] As a Supplier, I want to ..., so that, I can ... story.
+  - [ ] As a Supplier, I want to ..., so that, I can ... story.
 
-**#7** Remove Product
+**#7** **"Remove Product"**
 
-- ***"As a user, I want to ..., so that, I can ...."***
+- *As a Supplier, I want to ..., so that, I can ... epic.*
 
-  - As a user, I want to ..., so that, I can ....
+  - [ ] As a Supplier, I want to ..., so that, I can ... story.
+  - [ ] As a Supplier, I want to ..., so that, I can ... story.
 
-**#8** Export Products
+**#8** **"Export Products"**
 
-- ***"As a user, I want to ..., so that, I can ...."***
+- *As a Supplier, I want to ..., so that, I can ... epic.*
 
-  - As a user, I want to ..., so that, I can ....
+  - [ ] As a Supplier, I want to ..., so that, I can ... story.
+  - [ ] As a Supplier, I want to ..., so that, I can ... story.
 
 ### Tasks
 

@@ -150,7 +150,7 @@ Interaction design and information architecture.
 
 ## Skeleton
 
-Low fidelity wireframes with [EPICs](ux/User_Stories.md) references.
+Low fidelity wireframes with reference to [EPICs](ux/User_Stories.md).
 
 #### Wireframes
 
