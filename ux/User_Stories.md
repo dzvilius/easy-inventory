@@ -1,8 +1,10 @@
 # User Stories
 
-A list of EPICs and user stories for this project. Please check out the [Wireframes](ux/Wireframes) for visual reference.
+A list of EPICs and user stories for this project. Please check out the [Wireframes](ux/Wireframes/Main.md) for visual reference.
 
 ## Personas
+
+Description of End-users for this application.
 
 | User | Type | Details | Goal |
 | :--- | :--- | :--- | ---- |
@@ -12,12 +14,13 @@ A list of EPICs and user stories for this project. Please check out the [Wirefra
 
 ## Front-end Stories
 
+Themes, EPICs and User Stories for a public side of the application.
+
 **#1** - **"Navigation"**
 
-- *As a Customer, I want to ..., so that, I can ... epic.*
-
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
+- *As a customer, I want to navigate around the app, so that, I can access the sections I need.*
+  - [ ] As a customer, I want to navigate to the main page, so that, I can see the home page.
+  - [ ] As a customer, I want to ..., so that, I can ... story.
 
 - *As a Customer, I want to ..., so that, I can ... epic.*
 
@@ -37,7 +40,7 @@ A list of EPICs and user stories for this project. Please check out the [Wirefra
   - [ ] As a Customer, I want to ..., so that, I can ... story.
   - [ ] As a Customer, I want to ..., so that, I can ... story.
 
-**#4** - **"Images Gallery"**
+**#4** - **"Image Gallery"**
 
 - *As a Customer, I want to ..., so that, I can ... epic.*
 
@@ -66,6 +69,8 @@ A list of EPICs and user stories for this project. Please check out the [Wirefra
   - [ ] As a Customer, I want to ..., so that, I can ... story.
 
 ## Back-end Stories
+
+Themes, EPICs and User Stories for a private (admin) side of the application.
 
 **#1** - **"Login"**
 

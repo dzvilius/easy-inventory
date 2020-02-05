@@ -51,8 +51,9 @@ Inventory management and product promotion.
 * View high resolution images
 * Watch promotional videos
 * Download product brochures
-* Contact the supplier
 * Print product details
+* Contact the supplier
+* Order by phone
 
 *Admin*
 
@@ -79,22 +80,23 @@ Manage the inventory and display product details to customers.
 #### Features
 
 * Product search
-* PDF brochure downloads
-* Products filtering
+* Product filtering
 * Product sorting
 * Technical specifications table
 * High-resolution images
 * Promotional videos
+* Call to order
 * Print details
 * Admin login
 * CRUD (create, remove, updated and delete)
 * Hosted database
 * Statistics and charts
-* CSV import and export
 
 *Features to be implemented in the future:*
 
 - Authentication
+- CSV import and export
+- PDF brochure downloads
 
 #### User Stories
 
@@ -150,21 +152,19 @@ Interaction design and information architecture.
 
 ## Skeleton
 
-Low fidelity wireframes with reference to [EPICs](ux/User_Stories.md).
+Prototype and wireframes with reference numbers to [User Stories](ux/User_Stories.md).
 
-#### Wireframes
+#### Interactive Prototype
 
-*Home View*
+[Live Preview](https://invis.io/Y8VV7RQPVUF)
 
-![Alt](https://lagallia.com/wp-content/uploads/2014/04/placeholder-840x630.png "Alt")
+#### Static Wireframes
 
-*List View*
-
-![Alt](https://lagallia.com/wp-content/uploads/2014/04/placeholder-840x630.png "Alt")
+Check out the complete list of [Low-fidelity Mockups](ux/Wireframes/Main.md).
 
 ## Surface
 
-High fidelity design mockups.
+High-fidelity design mockups.
 
 #### Fonts
 
@@ -172,23 +172,19 @@ High fidelity design mockups.
 
 #### Brand Colours
 
-![Alt](https://lagallia.com/wp-content/uploads/2014/04/placeholder-840x630.png "Alt")
+...img
 
 #### Design Mockups
 
 *Home View*
 
-![Alt](https://lagallia.com/wp-content/uploads/2014/04/placeholder-840x630.png "Alt")
-
 *List View*
-
-![Alt](https://lagallia.com/wp-content/uploads/2014/04/placeholder-840x630.png "Alt")
 
 ## Tech
 
-- Kanban board https://trello.com/
-
-- Diagrams made with https://cacoo.com/
+- [Trello](https://trello.com/) - Kanban board
+- [Cacoo](https://cacoo.com/) - Diagrams
+- [inVision](https://www.invisionapp.com/) - Prototypes
 
 ## Testing
 
