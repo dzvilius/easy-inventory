@@ -1,6 +1,6 @@
 # User Stories
 
-A list of EPICs and user stories for this project. Please check out the [Wireframes](Wireframes/Main.md) for visual reference.
+A list of EPICs and user stories for this project. Please check out the [Wireframes](wireframes/Main.md) for visual reference.
 
 ## Personas
 
