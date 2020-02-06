@@ -8,7 +8,6 @@ The client is a local DJ equipment supplier. They are looking for a simple solut
 
 ### Requirements
 
-- CSV import and export
 - Ability to Create, Remove, Update and Delete records (CRUD)
 - Instant product search
 - Filtering and sorting
@@ -17,16 +16,16 @@ The client is a local DJ equipment supplier. They are looking for a simple solut
 - Display statistical charts
 - Ability to upload documents
 - Admin login
+- CSV import and export
+- Wishlist
 
 ### Assets
 
-- Product brochures
 - Brands list
 - Products list
 - Collections list
 - High resolution photography
 - Video links
-- Sample inventory CSV file
 
 ### Notes
 

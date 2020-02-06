@@ -57,6 +57,7 @@ Inventory management and product promotion.
 * Print product details
 * Contact the supplier
 * Order by phone
+* Add to wishlist
 
 *Admin*
 
@@ -98,6 +99,8 @@ Manage the inventory and display product details to customers.
 *Features to be implemented in the future:*
 
 - Authentication
+- Create an account
+- Wishlist
 - CSV import and export
 - PDF brochure downloads
 
@@ -155,15 +158,17 @@ Interaction design and information architecture.
 
 ## Skeleton
 
-Prototype and wireframes with reference numbers to [User Stories](ux/User_Stories.md).
+Low-fidelity wireframes and application prototype.
 
 #### Interactive Prototype
 
 [Live Preview](https://invis.io/Y8VV7RQPVUF)
 
-#### Static Wireframes
+#### Wireframes
 
-Check out the complete list of [Low-fidelity Mockups](ux/Wireframes/Main.md).
+For number reference to [User Stories](ux/User_Stories.md) please see the complete list of [Wireframe Mockups](ux/Wireframes/Main.md).
+
+![Wireframe](ux/Wireframes/All.png "Wireframe")
 
 ## Surface
 
