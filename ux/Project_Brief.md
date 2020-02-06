@@ -4,7 +4,7 @@ Build a web-based application for simple inventory management and interactive da
 
 ### Product Owner
 
-The client is a local DJ equipment supplier. They are looking for a simple solution to manage their product inventory and showcase details and technical specifications to potential buyers.
+The client is a local DJ equipment supplier. He is looking for a simple solution to manage products inventory and showcase details and technical specifications to potential buyers.
 
 ### Requirements
 

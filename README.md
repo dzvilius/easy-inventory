@@ -21,7 +21,7 @@ Please read the [Project Brief](ux/Project_Brief.md) document to learn more abou
   - [Database](#database)
 - [Skeleton](#skeleton)
   - [Interactive Prototype](#interactive-prototype)
-  - [Static Wireframes](#static-wireframes)
+  - [Wireframes](#wireframes)
 - [Surface](#surface)
   - [Fonts](#fonts)
   - [Brand Colours](#brand-colours)
@@ -192,6 +192,7 @@ High-fidelity design mockups.
 
 - [Trello](https://trello.com/) - Kanban board
 - [Cacoo](https://cacoo.com/) - Diagrams
+- [Balsamiq Cloud](https://balsamiq.cloud/) - Wireframes
 - [inVision](https://www.invisionapp.com/) - Prototypes
 
 ## Testing
@@ -204,4 +205,6 @@ High-fidelity design mockups.
 
 ## Credits
 
-...
+- [Sweetwater](https://www.sweetwater.com/) - DJ product specifications
+
+
