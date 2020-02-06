@@ -6,8 +6,6 @@ Please read the [Project Brief](ux/Project_Brief.md) document to learn more abou
 
 [Live Preview](https://#)
 
-![Screenshot](https://lagallia.com/wp-content/uploads/2014/04/placeholder-840x630.png "Screenshot")
-
 #### Table of Contents
 - [Strategy](#strategy)
   - [Users](#users)
@@ -116,11 +114,11 @@ Interaction design and information architecture.
 
 *The Mind-map*
 
-![The Mind-map](https://lagallia.com/wp-content/uploads/2014/04/placeholder-840x630.png "The Mind-map")
+![Mind-map](ux/wireframes/mockups/Mind-map.png)
 
-*Conceptual data model*
+*Conceptual Data Model*
 
-![alt text](ux/Diagrams/Conceptual_ER_Diagram.png)
+![ER Diagram](ux/diagrams/Conceptual_ER_Diagram.png)
 
 #### Database
 
