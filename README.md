@@ -166,7 +166,7 @@ Low-fidelity wireframes and application prototype.
 
 For number reference to [User Stories](ux/User_Stories.md) please see the complete list of [Wireframe Mockups](ux/wireframes/Main.md).
 
-![Wireframe](ux/Wireframes/Mockups/All.png "Wireframe")
+![Wireframe](ux/wireframes/mockups/All.png "Wireframe")
 
 ## Surface
 
