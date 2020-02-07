@@ -4,7 +4,7 @@ A web-based inventory management application. Built with React, Python, Flask an
 
 Please read the [Project Brief](ux/Project_Brief.md) document to learn more about the client and project requirements.
 
-[Live Preview](https://#)
+[Live Preview](https://invis.io/Y8VV7RQPVUF)
 
 #### Table of Contents
 - [Strategy](#strategy)
