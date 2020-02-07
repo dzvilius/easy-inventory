@@ -1,0 +1,9 @@
+{
+  "name": "easy-inventory",
+  "description": "A web-based inventory management application. Built with React, Python, Flask and MongoDB.",
+  "version": "0.1.0",
+  "author": "Vilius Dzemyda <hello@viliusdzemyda.com>",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
