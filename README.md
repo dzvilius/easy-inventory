@@ -6,7 +6,7 @@ Please read the [Project Brief](ux/Project_Brief.md) document to learn more abou
 
 [Live Preview](https://invis.io/Y8VV7RQPVUF)
 
-![Tech](ux/screenshots/tech.jpg)
+![Tech](ux/screenshots/technology_logos.jpg)
 
 #### Table of Contents
 - [Strategy](#strategy)
