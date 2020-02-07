@@ -114,7 +114,7 @@ Interaction design and information architecture.
 
 *The Mind-map*
 
-![Mind-map](ux/wireframes/mockups/Mind-map.png)
+![Mind-map](ux/diagrams/Mind-map.png)
 
 *Conceptual Data Model*
 
