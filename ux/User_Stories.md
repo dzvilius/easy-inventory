@@ -1,6 +1,6 @@
 # User Stories
 
-A list of EPICs and user stories for this project. Please check out [Wireframes](wireframes/Main.md) for visual reference.
+A list of EPICs and user stories for this project. Please see [Wireframes](wireframes/Main.md) for visual reference.
 
 - [Front-end Stories](#front-end-stories)
 - [Back-end Stories](#back-end-stories)
