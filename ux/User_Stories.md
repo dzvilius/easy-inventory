@@ -2,6 +2,9 @@
 
 A list of EPICs and user stories for this project. Please check out [Wireframes](wireframes/Main.md) for visual reference.
 
+- [Front-end Stories](#front-end-stories)
+- [Back-end Stories](#back-end-stories)
+
 ## Personas
 
 Description of End-users for this application.
@@ -25,7 +28,8 @@ Themes, EPICs and User Stories for public part of the application.
   - [ ] As a customer, I want to click on logo, so that, I can navigate to home page fast.
 
 - *Sign In*
-  - [ ] As a customer, I want to navigate to login page, so that, I can sign in to my account.
+  - [ ] As a supplier, I want to sign in, so that, I can manage my products.
+  - [ ] As a customer, I want to sign in, so that, I can see my wishlist.
 
 **# F2** - **"Search"**
 
@@ -36,7 +40,13 @@ Themes, EPICs and User Stories for public part of the application.
 **# F3** - **"Call to action"**
 
 - *Hero image*
-  - [ ] As a customer, I want to click on product, so that, I can see more details.
+  - [ ] As a customer, I want to see the product, so that, I can see more details.
+
+- *Text*
+  - [ ] As a customer, I want to see the name of product, so that, I know which it is.
+
+- *Button*
+  - [ ] As a customer, I want to click on the product, so that, I can see more details.
 
 **# F4** - **"Collection list"**
 
@@ -44,92 +54,120 @@ Themes, EPICs and User Stories for public part of the application.
   - [ ] As a customer, I want to see section title, so that, I know where I am.
 
 - *List of collections*
-  - [ ] As a customer, I want to click on product, so that, I can see more details.
-  - [ ] As a customer, I want to click on product, so that, I can see more details.
+  - [ ] As a customer, I want to click on collection, so that, I can see the products in that collection.
+  - [ ] As a customer, I want to see collection title, so that, I can choose the one I want.
 
 **# F5** - **"Promotion"**
 
-- *As a Customer, I want to ..., so that, I can ... epic.*
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
+- *Hero image*
+  - [ ] As a customer, I want to see the promotion, so that, I can order at discount price.
+  - [ ] As a customer, I want to click on promotion, so that, I can see more details.
 
 **# F6** - **"Footer"**
 
-- *As a Customer, I want to ..., so that, I can ... epic.*
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
+- *Logo*
+  - [ ] As a customer, I want to click on logo, so that, I can navigate to home page fast.
+
+- *Menu*
+  - [ ] As a customer, I want to navigate to collections, so that, I can view the products.
+
+- *Copyright*
+  - [ ] As a customer, I want to see the copyright notice, so that, I know if it's copy protected.
 
 **# F7** - **"Go back link"**
 
-- *As a Customer, I want to ..., so that, I can ... epic.*
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
+- *Back link*
+  - [ ] As a customer, I want to click on back link, so that, I can navigate back fast.
 
 **# F8** - **"Sort & Filter"**
 
-- *As a Customer, I want to ..., so that, I can ... epic.*
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
+- *Sort by price*
+  - [ ] As a customer, I want to sort by price, so that, I can see the most expensive first.
+
+- *Filter by brand*
+  - [ ] As a customer, I want to filter by brand, so that, I can see the products of brand I want.
 
 **# F9** - **"Product list"**
 
-- *As a Customer, I want to ..., so that, I can ... epic.*
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
+- *Image*
+  - [ ] As a customer, I want to see product image, so that, I choose the one.
+  - [ ] As a customer, I want to click the product image, so that, I can see more details.
+
+- *Details*
+  - [ ] As a customer, I want to see product title , so that, I know how it's called.
+  - [ ] As a customer, I want to see product description , so that, I can read more details.
+  - [ ] As a customer, I want to see product price , so that, I know how much it cost.
+
+- *Section heading*
+  - [ ] As a customer, I want to see section title, so that, I know where I am.
 
 **# F10** - **"Image gallery"**
 
-- *As a Customer, I want to ..., so that, I can ... epic.*
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
+- *Large image*
+  - [ ] As a customer, I want to see large product image, so that, I can see more details.
+
+- *Image thumbnails*
+  - [ ] As a customer, I want to see more product images, so that, I can see product from more angles.
+  - [ ] As a customer, I want to see a large version, so that, I can see more details.
 
 **# F11** - **"Product actions"**
 
-- *As a Customer, I want to ..., so that, I can ... epic.*
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
+- *Price*
+  - [ ] As a customer, I want to see product price, so that, I how much is it.
 
-**# F12** - **"Quick link"**
+- *Check list*
+  - [ ] As a customer, I want to see the delivery info, so that, I know more about it.
 
-- *As a Customer, I want to ..., so that, I can ... epic.*
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
+- *Print*
+  - [ ] As a customer, I want to print details, so that, I can check it out later.
+
+- *Stock*
+  - [ ] As a customer, I want to see stock amount, so that, I know how many left.
+
+- *Call to order*
+  - [ ] As a customer, I want to click to call, so that, I can order by phone.
+
+**# F12** - **"Quick links"**
+
+- *Tabs*
+  - [ ] As a customer, I want to choose the section, so that, I can pick the one I want.
+
+- *Anchor link*
+  - [ ] As a customer, I want to see section instantly, so that, I can read it.
 
 **# F13** - **"Description"**
 
-- *As a Customer, I want to ..., so that, I can ... epic.*
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
+- *Info*
+  - [ ] As a customer, I want to see product info, so that, I can learn more about it.
 
 **# F14** - **"YouTube"**
 
-- *As a Customer, I want to ..., so that, I can ... epic.*
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
+- *Video*
+  - [ ] As a customer, I want to see product video, so that, I can learn more about it.
 
 **# F15** - **"Specifications"**
 
-- *As a Customer, I want to ..., so that, I can ... epic.*
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
+- *Details*
+  - [ ] As a customer, I want to see product specs, so that, I can learn more about it.
 
 **# F16** - **"Contact form"**
 
-- *As a Customer, I want to ..., so that, I can ... epic.*
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
+- *Form*
+  - [ ] As a customer, I want to contact the supplier, so that, I can ask about the product.
 
 **# F17** - **"Map"**
 
-- *As a Customer, I want to ..., so that, I can ... epic.*
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
+- *Google map*
+  - [ ] As a customer, I want to see supplier location, so that, I know where they are located.
 
 **# F18** - **"Login form"**
 
-- *As a Customer, I want to ..., so that, I can ... epic.*
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
-  - [ ] As a Customer, I want to ..., so that, I can ... story.
+- *Sign in form*
+  - [ ] As a customer, I want to sign in to my account, so that, I can see my wishlist.
+  - [ ] As a supplier, I want to sign in to my account, so that, I can manage my products.
+
+- *Sign up form*
+  - [ ] As a customer, I want to sign up for an account, so that, I know save my wishlist.
 
 ## Back-end Stories
 
@@ -137,57 +175,81 @@ Themes, EPICs and User Stories for a private (admin) side of the application.
 
 **# B1** - **"Menu"**
 
-- *As a Supplier, I want to ..., so that, I can ... epic.*
-  - [ ] As a Supplier, I want to ..., so that, I can ... story.
-  - [ ] As a Supplier, I want to ..., so that, I can ... story.
+- *Links*
+  - [ ] As a supplier, I want to navigate my account, so that, I can find the section that I need.
 
 **# B2** - **"Search"**
 
-- *As a Supplier, I want to ..., so that, I can ... epic.*
-  - [ ] As a Supplier, I want to ..., so that, I can ... story.
-  - [ ] As a Supplier, I want to ..., so that, I can ... story.
+- *Search bar*
+  - [ ] As a supplier, I want to search products, so that, I can find the product that I need.
 
 **# B3** - **"Charts & Stats"**
 
-- *As a Supplier, I want to ..., so that, I can ... epic.*
-  - [ ] As a Supplier, I want to ..., so that, I can ... story.
-  - [ ] As a Supplier, I want to ..., so that, I can ... story.
+- *Unique products*
+  - [ ] As a supplier, I want to see product count, so that, I know how many products I have.
+
+- *Total products*
+  - [ ] As a supplier, I want to see product count, so that, I know how many products I have.
+
+- *Brands*
+  - [ ] As a supplier, I want to see brand chart, so that, I know which one I supply the most.
+
+- *Equipment*
+  - [ ] As a supplier, I want to see product count, so that, I know how many products I have.
 
 **# B4** - **"Collections"**
 
-- *As a Supplier, I want to ..., so that, I can ... epic.*
-  - [ ] As a Supplier, I want to ..., so that, I can ... story.
-  - [ ] As a Supplier, I want to ..., so that, I can ... story.
+- *List*
+  - [ ] As a supplier, I want to see list of collections, so that, I know how many collections I have.
+  - [ ] As a supplier, I want to see product count in collection, so that, I know how many products I have.
+
+- *Edit collection*
+  - [ ] As a supplier, I want to edit collection, so that, I can edit or delete the collection.
 
 **# B5** - **"Add collection"**
 
-- *As a Supplier, I want to ..., so that, I can ... epic.*
-  - [ ] As a Supplier, I want to ..., so that, I can ... story.
-  - [ ] As a Supplier, I want to ..., so that, I can ... story.
+- *Add button*
+  - [ ] As a supplier, I want to add collection, so that, I can add new collection.
+
+- *Form*
+  - [ ] As a supplier, I want to add collection details, so that, I can add the details.
+  - [ ] As a supplier, I want to save the details, so that, I can save the details.
+  - [ ] As a supplier, I want to cancel, so that, I can cancel saving details.
 
 **# B6** - **"Edit collection"**
 
-- *As a Supplier, I want to ..., so that, I can ... epic.*
-  - [ ] As a Supplier, I want to ..., so that, I can ... story.
-  - [ ] As a Supplier, I want to ..., so that, I can ... story.
+- *Form*
+  - [ ] As a supplier, I want to edit collection details, so that, I can edit the details.
+  - [ ] As a supplier, I want to save details, so that, I can save the details.
+  - [ ] As a supplier, I want to cancel, so that, I can cancel saving details.
+  - [ ] As a supplier, I want to delete collection, so that, I can delete the collection.
 
 **# B7** - **"Products"**
 
-- *As a Supplier, I want to ..., so that, I can ... epic.*
-  - [ ] As a Supplier, I want to ..., so that, I can ... story.
-  - [ ] As a Supplier, I want to ..., so that, I can ... story.
+- *List*
+  - [ ] As a supplier, I want to see list of products, so that, I know how many products I have.
+  - [ ] As a supplier, I want to see available stock in collection, so that, I know how many products I have.
+
+- *Edit product*
+  - [ ] As a supplier, I want to edit product, so that, I can edit or delete the product.
 
 **# B8** - **"Add product"**
 
-- *As a Supplier, I want to ..., so that, I can ... epic.*
-  - [ ] As a Supplier, I want to ..., so that, I can ... story.
-  - [ ] As a Supplier, I want to ..., so that, I can ... story.
+- *Add button*
+  - [ ] As a supplier, I want to add products, so that, I can add new product.
+
+- *Form*
+  - [ ] As a supplier, I want to add product details, so that, I can add the details.
+  - [ ] As a supplier, I want to save details, so that, I can save the details.
+  - [ ] As a supplier, I want to cancel, so that, I can cancel saving details.
 
 **# B9** - **"Edit product"**
 
-- *As a Supplier, I want to ..., so that, I can ... epic.*
-  - [ ] As a Supplier, I want to ..., so that, I can ... story.
-  - [ ] As a Supplier, I want to ..., so that, I can ... story.
+- *Form*
+  - [ ] As a supplier, I want to edit product details, so that, I can edit the details.
+  - [ ] As a supplier, I want to save details, so that, I can save the details.
+  - [ ] As a supplier, I want to cancel, so that, I can cancel saving details.
+  - [ ] As a supplier, I want to delete product, so that, I can delete the product.
 
 ## Tasks
 
