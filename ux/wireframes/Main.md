@@ -2,6 +2,9 @@
 
 A complete list of low-fidelity mockups with number reference to [User Stories](../User_Stories.md).
 
+- [Front-end Mockups](#front-end-mockups)
+- [Back-end Mockups](#back-end-mockups)
+
 #### Front-end Mockups
 
 *Home*
