@@ -186,10 +186,10 @@ Themes, EPICs and User Stories for a private (admin) side of the application.
 **# B3** - **"Charts & Stats"**
 
 - *Unique products*
-  - [ ] As a supplier, I want to see product count, so that, I know how many products I have.
+  - [ ] As a supplier, I want to see unique product count, so that, I know how many products I have.
 
 - *Total products*
-  - [ ] As a supplier, I want to see product count, so that, I know how many products I have.
+  - [ ] As a supplier, I want to see total product count, so that, I know how many products I have.
 
 - *Brands*
   - [ ] As a supplier, I want to see brand chart, so that, I know which one I supply the most.
