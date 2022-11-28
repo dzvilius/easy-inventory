@@ -1,4 +1,4 @@
-# Easy Inventory
+# Easy Inventory (Prototype)
 
 A web-based inventory management application. Built with React, Python, Flask and MongoDB.
 
